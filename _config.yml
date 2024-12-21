@@ -14,7 +14,13 @@ Cover_Image:
 links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
-    
+ 
+   # Substack
+  - Name: Substack
+    URL: https://kiranprasad2001.substack.com
+    Color: '#ee7835'
+    Icon-Class: fab fa-readme
+   
     # FACEBOOK
   - Name: Facebook
     URL: https://www.facebook.com
