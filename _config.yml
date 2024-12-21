@@ -19,7 +19,7 @@ links:
    # Substack
   - Name: Book1 - Anya
     URL: https://kiranprasad2001.substack.com/i/153184339/chapter-awakening
-    Color: '#ee7835'
+    Color: '#E60023'
     Icon-Class: fas fa-book
 
  
@@ -58,12 +58,12 @@ links:
 #    Icon-Class: fa-brands fa-threads
 #    Text_Color: '#ffffff'
 
-  # MESSENGER
-  - Name: Messenger
-    URL: https://m.me
-    Username: kiranprasad2001
-    Color: '#006AFF'
-    Icon-Class: fab fa-facebook-messenger
+#  # MESSENGER
+#  - Name: Messenger
+#    URL: https://m.me
+#    Username: kiranprasad2001
+#    Color: '#006AFF'
+#    Icon-Class: fab fa-facebook-messenger
 
 #    # CLUBHOUSE
 #  - Name: Clubhouse
@@ -162,12 +162,12 @@ links:
   #   Color: '#25d366'
   #   Icon-Class: fab fa-whatsapp
 
-    # TELEGRAM
-  - Name: Telegram
-    URL: http://telegram.me
-    Username: kiranprasad2001
-    Color: '#0088cc'
-    Icon-Class: fab fa-telegram-plane
+#    # TELEGRAM
+#  - Name: Telegram
+#    URL: http://telegram.me
+#    Username: kiranprasad2001
+#    Color: '#0088cc'
+#    Icon-Class: fab fa-telegram-plane
 
 #   # SNAPCHAT
 # - Name: Snapchat
@@ -193,12 +193,12 @@ links:
   #   Color: '#5865F2'
   #   Text_Color: '#ffffff'
 
-    # PINTEREST
-  - Name: Pinterest
-    URL: https://pinterest.com
-    Username: 'kiranprasad2001'
-    Color: '#E60023'
-    Icon-Class: fab fa-pinterest
+#    # PINTEREST
+#  - Name: Pinterest
+#    URL: https://pinterest.com
+#    Username: 'kiranprasad2001'
+#    Color: '#E60023'
+#    Icon-Class: fab fa-pinterest
 
 #    # BEHANCE
 #  - Name: Behance
