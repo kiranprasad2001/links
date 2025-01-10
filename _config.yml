@@ -31,8 +31,8 @@ links:
     Icon-Class: fab fa-readme
    
     # TTC Message Sender
-  - Name: TTC
-    URL: https://https://ttc.spotrot.com
+  - Name: TTC Message Sender
+    URL: https://ttc.spotrot.com
     Color: '#E60023'
     Icon-Class: fas fa-bus
 
