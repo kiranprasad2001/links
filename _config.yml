@@ -30,12 +30,11 @@ links:
     Color: '#ee7835'
     Icon-Class: fab fa-readme
    
-    # FACEBOOK
-  - Name: Facebook
-    URL: https://www.facebook.com
-    Username: kiranprasad2001
-    Color: '#3b5998'
-    Icon-Class: fab fa-facebook
+    # TTC Message Sender
+  - Name: TTC
+    URL: https://https://ttc.spotrot.com
+    Color: '#E60023'
+    Icon-Class: fas fa-bus
 
     # INSTAGRAM
   - Name: Instagram
