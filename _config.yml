@@ -6,7 +6,7 @@ tagline: Software Engineer | Writing Stories | Watching movies
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://github.com/kiranprasad2001.png
-Brand_URL: https://spotrot.com/about/
+Brand_URL: https://spotrot.com/resume
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: 
@@ -20,15 +20,15 @@ links:
    # Substack
   - Name: Book1 - Anya
     URL: https://kiranprasad2001.substack.com/i/153184339/chapter-awakening
-    Color: '#E60023'
+    Color: '#ee7835'
     Icon-Class: fas fa-book
 
  
    # Substack
-  - Name: Substack
-    URL: https://kiranprasad2001.substack.com
-    Color: '#ee7835'
-    Icon-Class: fab fa-readme
+#  - Name: Substack
+#    URL: https://kiranprasad2001.substack.com
+#    Color: '#ee7835'
+#    Icon-Class: fab fa-readme
    
     # TTC Message Sender
   - Name: TTC Message Sender
@@ -103,7 +103,7 @@ links:
 
     # EMAIL
   - Name: Email
-    URL: 'mailto:kp@spotrot.com'
+    URL: 'mailto:kiranprasad2001@outlook.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
