@@ -6,7 +6,7 @@ tagline: Software Engineer | Writing Stories | Watching movies
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://github.com/kiranprasad2001.png
-Brand_URL: https://spotrot.com/resume
+Brand_URL: https://spotrot.com/about/
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: 
@@ -16,25 +16,37 @@ links:
 
   # IF YOU DON'T WANT TO USE ANY OF THE FOLLOWING, JUST LEAVE THE URL BLANK
 
+   # kimail
+  - Name: kimail
+    URL: https://kimail.spotrot.com/
+    Color: '#DD2A7B'
+    Icon-Class: fas fa-envelope
+
+   # kiran-ccm-tool
+  - Name: kiran CCM Tool
+    URL: https://spotrot.com/kiran-ccm-tool
+    Color: '#3b5998'
+    Icon-Class: fas fa-book
 
    # Substack
   - Name: Book1 - Anya
     URL: https://kiranprasad2001.substack.com/i/153184339/chapter-awakening
-    Color: '#ee7835'
+    Color: '#E60023'
     Icon-Class: fas fa-book
 
  
    # Substack
-#  - Name: Substack
-#    URL: https://kiranprasad2001.substack.com
-#    Color: '#ee7835'
-#    Icon-Class: fab fa-readme
+  - Name: Substack
+    URL: https://kiranprasad2001.substack.com
+    Color: '#ee7835'
+    Icon-Class: fab fa-readme
    
-    # TTC Message Sender
-  - Name: TTC Message Sender
-    URL: https://ttc.spotrot.com
-    Color: '#E60023'
-    Icon-Class: fas fa-bus
+    # FACEBOOK
+  - Name: Facebook
+    URL: https://www.facebook.com
+    Username: kiranprasad2001
+    Color: '#3b5998'
+    Icon-Class: fab fa-facebook
 
     # INSTAGRAM
   - Name: Instagram
@@ -103,7 +115,7 @@ links:
 
     # EMAIL
   - Name: Email
-    URL: 'mailto:kiranprasad2001@outlook.com'
+    URL: 'mailto:kp@spotrot.com'
     Icon-Class: fas fa-envelope
     Color: '#e17055'
     Text_Color: '#ffffff'
