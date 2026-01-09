@@ -2,17 +2,23 @@
 name: Kiran Prasad
 
 # YOUR BRAND/PERSONAL TAGLINE
-tagline: Software Engineer | Writing Stories | Watching movies
+tagline: Software Engineer | Watching movies
 
 # YOUR/BRAND IMAGE URL
 Image_URL: https://github.com/kiranprasad2001.png
-Brand_URL: https://spotrot.com/about/
+Brand_URL: https://spotrot.com/resume/
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
 Cover_Image: 
 
 # SOCIAL MEDIA
 links: 
+
+   # About
+  - Name: About me
+    URL: https://spotrot.com/resume/
+    Color: '#DD2A7B'
+    Icon-Class: fas fa-address-card
 
    # kimail
   - Name: kimail
@@ -44,7 +50,7 @@ links:
     URL: https://ttc.spotrot.com/
     Username: kiranprasad2001
     Color: '#3b5998'
-    Icon-Class: fab fa-facebook
+    Icon-Class: fab fa-bus
 
     # INSTAGRAM
 #  - Name: Instagram
